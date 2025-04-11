@@ -38,14 +38,14 @@
       <script src="{{ 'vendor/qrcode.js' | shopify_asset_url }}" defer></script>
     {%- endif -%}
     
-  {% comment %}
+
 <script>
    let shopifySettings = {
     licenseKey: "{{ settings.purchase_code }}",
      Themename: "{{ theme.name }}"
 };
   </script>
-  {% endcomment %}
+
     
     <script>
       if (!(HTMLScriptElement.supports && HTMLScriptElement.supports('importmap'))) {
