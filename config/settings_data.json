@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "purchase_code": "",
+    "purchase_code": "4ccf924d-a132-4ff6-b5e9-ecfc6d75b179",
     "section_vertical_spacing": "sm",
     "product_rating_color": "#1c1c1c",
     "product_on_sale_accent": "#e32c2b",
@@ -30,6 +30,13 @@
     "cart_icon": "shopping_bag",
     "favicon": "shopify://shop_images/Favicon2.png",
     "content_for_index": [],
+    "blocks": {
+      "5134484470793087125": {
+        "type": "shopify://apps/vitals/blocks/app-embed/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
+        "disabled": false,
+        "settings": {}
+      }
+    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -74,13 +81,6 @@
           "circle_button_background": "#ffffff",
           "circle_button_icon": "#1c1c1c"
         }
-      }
-    },
-    "blocks": {
-      "5134484470793087125": {
-        "type": "shopify://apps/vitals/blocks/app-embed/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
