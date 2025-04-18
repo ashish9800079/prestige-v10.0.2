@@ -18,7 +18,7 @@
             "image": "shopify://shop_images/Lotilie_1.webp",
             "subheading": "",
             "title": "",
-            "mobile_text_position": "place-self-end-center text-center",
+            "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "SHOP NOW",
@@ -73,9 +73,9 @@
       "settings": {
         "allow_transparent_header": true,
         "show_next_section_button": false,
-        "media_size": "auto",
+        "media_size": "fill",
         "show_initial_transition": false,
-        "autoplay": false,
+        "autoplay": true,
         "autoplay_pause_on_video": true,
         "cycle_speed": 5,
         "background": "#000000",
@@ -96,46 +96,6 @@
         "subheading": "",
         "title": "",
         "content": ""
-      }
-    },
-    "before_after_7FDKxP": {
-      "type": "before-after",
-      "blocks": {
-        "before_8KyzkX": {
-          "type": "before",
-          "settings": {
-            "color_scheme": "",
-            "text": "Before",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link"
-          }
-        },
-        "after_CJWyEE": {
-          "type": "after",
-          "settings": {
-            "color_scheme": "",
-            "text": "After",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "before_8KyzkX",
-        "after_CJWyEE"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "cursor_direction": "horizontal",
-        "cursor_initial_position": 50,
-        "cursor_background": "#ffffff",
-        "cursor_arrows_color": "#000000"
       }
     },
     "featured-collections": {
@@ -565,7 +525,6 @@
   "order": [
     "slideshow",
     "collection_list_FbCNab",
-    "before_after_7FDKxP",
     "featured-collections",
     "slideshow_CWKXX3",
     "rich_text_wXXqn8",
