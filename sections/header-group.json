@@ -86,7 +86,8 @@
         "hide_on_scroll": false,
         "show_separation_border": false,
         "reduce_padding": false,
-        "logo_max_width": 220,
+        "logo": "shopify://shop_images/10_59221e21-a1fa-4ef5-9873-6b2bc345205e.png",
+        "logo_max_width": 100,
         "logo_mobile_max_width": 145,
         "menu": "main-menu",
         "sidebar_menu": "",
@@ -95,13 +96,14 @@
         "sidebar_color_scheme": "",
         "sidebar_text_font": "heading",
         "sidebar_show_dividers": true,
-        "layout": "logo_left_navigation_inline",
+        "layout": "logo_left_navigation_center",
         "show_icons": true,
         "show_country_selector": true,
         "show_country_name": false,
         "show_country_flag": true,
         "show_locale_selector": false,
-        "transparent_header_text_color": "#ffffff"
+        "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/11_68d9011e-61fe-4807-b094-861aeae77f25.png"
       }
     }
   },
