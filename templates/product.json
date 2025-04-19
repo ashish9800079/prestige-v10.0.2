@@ -153,7 +153,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "container_size": "full",
+        "container_size": "xl",
         "product_info_size": 35,
         "show_sticky_add_to_cart": true,
         "center_basic_info": false,
@@ -175,7 +175,7 @@
         "stack_products": false,
         "recommendations_count": 10,
         "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
+        "products_per_row_desktop": 5,
         "horizontal_spacing_factor": 0.4,
         "vertical_spacing_factor": 0.5,
         "subheading": "",
@@ -289,6 +289,7 @@
     },
     "custom_liquid_WaDVUq": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -300,6 +301,7 @@
     },
     "custom_liquid_P8A7QH": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
@@ -333,6 +335,7 @@
         "size_chart_UKCN9A",
         "size_chart_p94VQc"
       ],
+      "disabled": true,
       "settings": {
         "guide_position": "below_price",
         "toggle": "Size Guide",
