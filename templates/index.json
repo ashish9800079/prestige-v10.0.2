@@ -214,61 +214,18 @@
         "subheading": ""
       }
     },
-    "slideshow_CWKXX3": {
-      "type": "slideshow",
-      "blocks": {
-        "image_FMMeNP": {
-          "type": "image",
-          "settings": {
-            "subheading": "",
-            "title": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "content_max_width": 780,
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_1_style": "solid",
-            "button_1_background": "#ffffff",
-            "button_1_text_color": "#000000",
-            "button_2_text": "",
-            "button_2_link": "",
-            "button_2_style": "outline",
-            "button_2_background": "#ffffff",
-            "button_2_text_color": "#000000",
-            "background": "",
-            "background_opacity": 50,
-            "text_color": "#ffffff",
-            "border_color": "",
-            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
-          }
-        }
-      },
-      "block_order": [
-        "image_FMMeNP"
-      ],
-      "settings": {
-        "allow_transparent_header": false,
-        "show_next_section_button": false,
-        "media_size": "lg",
-        "show_initial_transition": false,
-        "autoplay": true,
-        "autoplay_pause_on_video": true,
-        "cycle_speed": 5,
-        "background": "#000000",
-        "controls_color": "#ffffff"
-      }
-    },
     "slideshow_R9h4Wn": {
       "type": "slideshow",
       "blocks": {
         "image_hFRWwH": {
           "type": "image",
           "settings": {
-            "subheading": "",
+            "image": "shopify://shop_images/Lotilie_img_01.webp",
+            "subheading": "We aspire to be a brand of the 21st century: 100% online and without any intermediary. From you to us directly.",
             "title": "",
             "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-end sm:text-end",
-            "content_max_width": 780,
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "content_max_width": 760,
             "button_1_text": "Shop all",
             "button_1_link": "shopify://collections",
             "button_1_style": "solid",
@@ -300,27 +257,6 @@
         "cycle_speed": 5,
         "background": "#000000",
         "controls_color": "#ffffff"
-      }
-    },
-    "scrolling_content_qgdBEF": {
-      "type": "scrolling-content",
-      "custom_css": [
-        ".scrolling-content {font-weight: bold !important; font-family: montserrat serif;}"
-      ],
-      "settings": {
-        "separate_section_with_border": false,
-        "scrolling_speed": 0.2,
-        "scroll_direction": "left",
-        "pause_on_hover": false,
-        "text_font": "heading",
-        "text_font_size_mobile": 12,
-        "text_font_size_desktop": 86,
-        "section_vertical_spacing_mobile": 10,
-        "section_vertical_spacing_desktop": 80,
-        "item_horizontal_spacing_mobile": 80,
-        "item_horizontal_spacing_desktop": 95,
-        "background": "",
-        "text_color": "#000000"
       }
     },
     "image-with-text-scroll": {
@@ -479,9 +415,7 @@
     "featured_collections_fRAtar",
     "collection_list_FbCNab",
     "featured-collections",
-    "slideshow_CWKXX3",
     "slideshow_R9h4Wn",
-    "scrolling_content_qgdBEF",
     "image-with-text-scroll",
     "multiple-media-with-text",
     "shop-the-look",
