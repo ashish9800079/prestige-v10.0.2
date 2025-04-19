@@ -12,10 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -129,12 +125,11 @@
             "option_name": "",
             "option_value_metafield": "",
             "products": [],
-            "selector_style": "swatch"
+            "selector_style": "variant_image"
           }
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "price",
         "badges_NcU79g",
