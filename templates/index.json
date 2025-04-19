@@ -114,35 +114,35 @@
     "collection_list_FbCNab": {
       "type": "collection-list",
       "blocks": {
-        "collection_gJCCiJ": {
+        "collection_qAYVUt": {
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
             "collection": "coats-jackets",
-            "image": "shopify://shop_images/Renelle_Timeless_Tailored_Coat3.jpg",
+            "image": "shopify://shop_images/Verena4.jpg",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
-            "title": "",
+            "title": "Coats & Jackets",
             "button_text": "View products",
-            "button_link": "",
+            "button_link": "https://lotilie.com/collections/coats-jackets",
             "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
         },
-        "collection_qAYVUt": {
+        "collection_gJCCiJ": {
           "type": "collection",
           "settings": {
             "color_scheme": "scheme-4",
-            "collection": "hoodies-sweatshirts",
-            "image": "shopify://shop_images/Elowen_Two-Piece_Lounge_Set5.jpg",
+            "collection": "coats-jackets",
+            "image": "shopify://shop_images/Elira_Embroidered_Zip_Hoodie3.webp",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
-            "title": "",
+            "title": "Sweaters",
             "button_text": "View products",
-            "button_link": "",
+            "button_link": "https://lotilie.com/collections/sweaters",
             "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -153,13 +153,13 @@
           "settings": {
             "color_scheme": "scheme-4",
             "collection": "footwear",
-            "image": "shopify://shop_images/Orvian_Orthopedic_Comfort_Clogs3.jpg",
+            "image": "shopify://shop_images/2_bc2acbdb-7315-4c07-92b1-840d1150b079.png",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
             "subheading": "",
-            "title": "",
+            "title": "Pants",
             "button_text": "View products",
-            "button_link": "",
+            "button_link": "https://lotilie.com/collections/pants",
             "button_style": "solid",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -167,8 +167,8 @@
         }
       },
       "block_order": [
-        "collection_gJCCiJ",
         "collection_qAYVUt",
+        "collection_gJCCiJ",
         "collection_kfFfqX"
       ],
       "settings": {
