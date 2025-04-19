@@ -17,31 +17,31 @@
         "icon-1": {
           "type": "item",
           "settings": {
-            "icon": "picto-delivery-truck",
+            "icon": "picto-box",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Free delivery worldwide",
-            "content": ""
+            "title": "Free delivery",
+            "content": "<p>Free Shipping in Australia</p>"
           }
         },
         "icon-2": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
+            "icon": "picto-return",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Satisfied or refunded",
-            "content": ""
+            "title": "30 DAY RETURNS",
+            "content": "<p>We want you to love what you wear</p>"
           }
         },
         "icon-3": {
           "type": "item",
           "settings": {
-            "icon": "picto-operator",
+            "icon": "picto-customer-support",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "24/7 Top-notch support",
-            "content": ""
+            "title": "Customer support",
+            "content": "<p>Response within 48 hours</p>"
           }
         },
         "icon-4": {
@@ -51,7 +51,7 @@
             "icon_width": 24,
             "mobile_icon_width": 24,
             "title": "Secure payments",
-            "content": ""
+            "content": "<p>Secure, encrypted payments for peace of mind</p>"
           }
         }
       },
@@ -62,7 +62,7 @@
         "icon-4"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": true,
         "stack_on_mobile": false,
         "icon_color": "",
@@ -73,12 +73,13 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "links_YV4iW9": {
-          "type": "links",
+        "newsletter_XEV6pd": {
+          "type": "newsletter",
           "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": "Customer Service"
+            "title": "Newsletter",
+            "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>",
+            "button_background": "",
+            "button_text_color": ""
           }
         },
         "links_PGbKtw": {
@@ -87,6 +88,14 @@
             "menu": "main-menu",
             "show_menu_title": true,
             "menu_title": ""
+          }
+        },
+        "links_YV4iW9": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": "Customer Service"
           }
         },
         "links": {
@@ -100,26 +109,27 @@
         "text_qEXbk6": {
           "type": "text",
           "settings": {
-            "title": "About our store",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Contact Information",
+            "content": "<p>Customer Support Hours:<br/>9:00 AM – 5:00 PM<br/>Email: info@lotilie.com<br/>Phone: +370 62349439<br/>Address: V. Nageviciaus g. 3, LT-08237, Vilnius</p>",
             "enable_follow_on_shop": true
           }
         }
       },
       "block_order": [
-        "links_YV4iW9",
+        "newsletter_XEV6pd",
         "links_PGbKtw",
+        "links_YV4iW9",
         "links",
         "text_qEXbk6"
       ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "show_social_media": true,
+        "show_social_media": false,
         "show_payment_icons": true,
-        "show_country_selector": true,
-        "show_country_name": true,
-        "show_country_flag": true,
+        "show_country_selector": false,
+        "show_country_name": false,
+        "show_country_flag": false,
         "show_locale_selector": true
       }
     }

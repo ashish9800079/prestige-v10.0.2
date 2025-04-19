@@ -10,6 +10,7 @@
 {
   "current": {
     "purchase_code": "4ccf924d-a132-4ff6-b5e9-ecfc6d75b179",
+    "icon_stroke_width": 1,
     "section_vertical_spacing": "sm",
     "product_rating_color": "#1c1c1c",
     "product_on_sale_accent": "#e32c2b",
@@ -18,9 +19,9 @@
     "success_color": "#307a07",
     "warning_color": "#ed8a00",
     "error_color": "#cb2b2b",
-    "heading_font": "montserrat_n6",
+    "heading_font": "instrument_sans_n4",
     "heading_letter_spacing": 18,
-    "text_font": "univers_next_n4",
+    "text_font": "nunito_sans_n4",
     "text_font_size_desktop": 14,
     "button_text_font": "body",
     "button_letter_spacing": 18,
@@ -44,7 +45,7 @@
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#f2f2f2",
           "background_gradient": "",
           "text_color": "#1c1c1c",
           "primary_button_background": "#1c1c1c",

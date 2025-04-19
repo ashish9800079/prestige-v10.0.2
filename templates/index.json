@@ -16,8 +16,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Lotilie_1.webp",
-            "subheading": "",
-            "title": "",
+            "subheading": "Style That Speaks",
+            "title": "Every Single Day",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
@@ -44,7 +44,7 @@
             "video": "shopify://files/videos/Lotilie.mp4",
             "allow_sound": false,
             "subheading": "Tell your story",
-            "title": "Video slide",
+            "title": "Elegant & Timeless",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
@@ -61,7 +61,7 @@
             "background": "",
             "background_opacity": 50,
             "text_color": "#ffffff",
-            "border_color": "",
+            "border_color": "#ffffff",
             "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.1), rgba(4, 4, 4, 0.65) 100%)"
           }
         }
@@ -84,10 +84,65 @@
     },
     "collection_list_FbCNab": {
       "type": "collection-list",
+      "blocks": {
+        "collection_gJCCiJ": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "coats-jackets",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_qAYVUt": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "hoodies-sweatshirts",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_kfFfqX": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-4",
+            "collection": "footwear",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_gJCCiJ",
+        "collection_qAYVUt",
+        "collection_kfFfqX"
+      ],
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": false,
-        "image_size": "auto",
+        "image_size": "lg",
         "show_text_outside": false,
         "space_items": false,
         "stack_collections": true,
@@ -179,65 +234,6 @@
         "content_width": "sm",
         "text_position": "center",
         "remove_vertical_spacing": false
-      }
-    },
-    "text_with_icons_emGpzf": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_VNt9KP": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-delivery-truck",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "Free shipping",
-            "content": ""
-          }
-        },
-        "item_gatNwM": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-return",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "30 DAYS RETURNS",
-            "content": ""
-          }
-        },
-        "item_3m4FJL": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-chat",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "24/7 SUPPORT",
-            "content": ""
-          }
-        },
-        "item_b8NyqH": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-delivery-truck",
-            "icon_width": 24,
-            "mobile_icon_width": 24,
-            "title": "5-9 DAY SHIPPING",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_VNt9KP",
-        "item_gatNwM",
-        "item_3m4FJL",
-        "item_b8NyqH"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "stack_on_mobile": true,
-        "icon_color": "",
-        "text_color": "",
-        "text_alignment": "center"
       }
     },
     "slideshow_R9h4Wn": {
@@ -347,28 +343,6 @@
         "cycle_speed": 5,
         "background": "#000000",
         "controls_color": "#ffffff"
-      }
-    },
-    "countdown_AXJDTC": {
-      "type": "countdown",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "subheading": "Subheading",
-        "title": "Special offer",
-        "content": "<p>Share something about your limited offer or temporary promotion.</p>",
-        "button_link": "",
-        "button_text": "",
-        "expiration_date": "",
-        "expiration_behavior": "leave",
-        "timer_position": "end",
-        "animate_number": true,
-        "flip_background": "",
-        "flip_background_opacity": 50,
-        "flip_text_color": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "image-with-text-scroll": {
@@ -528,11 +502,9 @@
     "featured-collections",
     "slideshow_CWKXX3",
     "rich_text_wXXqn8",
-    "text_with_icons_emGpzf",
     "slideshow_R9h4Wn",
     "scrolling_content_qgdBEF",
     "slideshow_atGRhz",
-    "countdown_AXJDTC",
     "image-with-text-scroll",
     "multiple-media-with-text",
     "shop-the-look",
